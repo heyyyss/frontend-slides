@@ -2,7 +2,7 @@
 
 Curated visual styles for Frontend Slides. Each preset is inspired by real design references — no generic "AI slop" aesthetics. **Abstract shapes only — no illustrations.**
 
-**Viewport CSS:** For mandatory base styles, see [viewport-base.css](viewport-base.css). Include in every presentation.
+**Viewport CSS:** For mandatory base styles, see [../assets/viewport-base.css](../assets/viewport-base.css). Include in every presentation.
 
 ---
 
