@@ -30,8 +30,8 @@ Copy the skill files to your Claude Code skills directory:
 mkdir -p ~/.claude/skills/frontend-slides/scripts
 
 # Copy all files (or clone this repo directly)
-cp SKILL.md STYLE_PRESETS.md viewport-base.css html-template.md animation-patterns.md ~/.claude/skills/frontend-slides/
-cp scripts/extract-pptx.py ~/.claude/skills/frontend-slides/scripts/
+cp SKILL.md ~/.claude/skills/frontend-slides/
+cp -r references/ assets/ scripts/ ~/.claude/skills/frontend-slides/
 ```
 
 Or clone directly:
